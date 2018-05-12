@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1257
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29485#Faro-Nell-and-Her-Friends--Wolfville-Stories
 gutenberg_issued: '2009-07-22'
 gutenberg_type: Text
 identifiers:
